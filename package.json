@@ -6,7 +6,7 @@
     "url": "https://github.com/willtsay/realtimeserver"
   },
   "dependencies": {
-    "socket.io": "latest",
+    "socket.io": "latest"
   },
   "engines": {
     "node": "0.10.x",
